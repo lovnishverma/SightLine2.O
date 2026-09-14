@@ -1,5 +1,5 @@
 ---
-title: SightLine Intelligence
+title: SightLine2.O Intelligence
 emoji: 👁️
 colorFrom: blue
 colorTo: green
@@ -9,7 +9,7 @@ app_file: app.py
 pinned: false
 ---
 
-# SightLine Intelligence: See the World Through AI
+# SightLine2.O Intelligence: See the World Through AI
 
 ### *SEE → UNDERSTAND → RESEARCH → VERIFY → PERSONALIZE → SPEAK → ACT*
 
@@ -51,7 +51,7 @@ python app.py
 
 ### Windows (Command Prompt)
 ```cmd
-cd "SIGHTLINE — BUILD WITH BHARAT 3.0"
+cd "SIGHTLINE2.O"
 python -m venv venv
 venv\Scripts\activate.bat
 pip install --upgrade pip
