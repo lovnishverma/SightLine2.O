@@ -27,7 +27,7 @@ pinned: false
 
 ---
 
-## ⚡ Quick Start: Run in 60 Seconds
+##  Quick Start: Run in 60 Seconds
 
 ### Windows (PowerShell)
 ```powershell
